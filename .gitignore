@@ -1,0 +1,7 @@
+*.mp4
+*.mov
+floyd*
+.floyd*
+__pycache__
+.ipynb_checkpoints
+.venv
